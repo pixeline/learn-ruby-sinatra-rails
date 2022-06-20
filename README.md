@@ -1,5 +1,13 @@
 # learn-ruby-sinatra-rails
 
+-- via [padrinoerb](http://padrinorb.com/guides/introduction/why-learn-padrino/#:~:text=TryRuby%20%E2%80%93%20This%20is,must%20be%20mentioned)
+
+-   [TryRuby](http://tryruby.org/levels/1/challenges/0 "TryRuby") -- This is an interactive tutorial that takes you step by step through learning Ruby. This is highly recommended. Visit the site and type "help" to get started.
+-   [Learn to Program](https://pine.fm/LearnToProgram "Learn to Program") by Chris Pines -- Excellent first Ruby tutorial, straightforward and excellent overview of the language.
+-   [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/ "Learn Ruby the
+    Hard Way") -- Newest addition to the group, based off of Zed's excellent Python tutorial. Set of exercises that teaches Ruby to you in a rigorous but simple approach.
+-   [Why's Poignant Guide](http://poignant.guide/book/chapter-1.html "Why's
+    Poignant Guide") - Definitely the most unorthodox way to learn Ruby, but must be mentioned.
 
 -- via Diogo:
 
