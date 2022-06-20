@@ -32,7 +32,8 @@ Read through these tutorials to understand routes, helpers, and the request/resp
 
 ## Rails
 
-via https://github.com/eltigredc  
+via [Diogo](https://github.com/eltigredc): 
+
 1. Learn programing with Ruby => https://pragprog.com/titles/ltp3/learn-to-program-third-edition/ - free online version (not updated: https://pine.fm/LearnToProgram/)
 2. Ruby on Rails https://www.railstutorial.org/
 
