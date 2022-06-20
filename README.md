@@ -28,21 +28,13 @@ There are several good Sinatra tutorials as well:
 -   [Sinatra Usage Examples](http://blog.maxaller.name/2010/01/a-brief-introduction-to-ruby-sinatra-and-haml "Sinatra Usage Examples") -- Great set of examples for how to use Sinatra in code snippets.
 
 Read through these tutorials to understand routes, helpers, and the request/response cycle that is exposed through Sinatra. The most comprehensive resource is probably the [Sinatra Book](https://github.com/sinatra/sinatra-book "Sinatra Book") so make sure to skim through that and familiarize yourself with the concepts
+
+
 ## Rails
--- via Diogo:
 
-Ruby et rails, c'est un délire, parce que la doc officielle est vraiment dure à digérer... 
-
-Du coup, Je te propose :
-
-1. Apprendre Ruby => https://pragprog.com/titles/ltp3/learn-to-program-third-edition/
-Super Bouquin qui détaille l'apprentissage de ruby il vaut le détour.
-Si jamais tu veut économiser un peu: https://kickasstorrents.cr/learn-to-program-3rd-edition-pdf-t4948767.html
-
-2. Apprendre Ruby On rails => https://www.railstutorial.org/
-C'est payant comme ressource, mais c'est quand même pas mal, ils ont un système d'abonnement, mais acheter le PDF une bonne fois sera un bon investissement
-
-3. Bonus: 
+vai @eltigredc: 
+1. Learn programing with Ruby => https://pragprog.com/titles/ltp3/learn-to-program-third-edition/ - free online version (not updated: https://pine.fm/LearnToProgram/)
+2. Ruby on Rails https://www.railstutorial.org/
 
 - https://gorails.com/series
 - https://www.pluralsight.com/courses/code-school-rails-for-zombies
